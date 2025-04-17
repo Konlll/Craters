@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\Dokumentumok\\Kornel-dokumentumai\\Mechwart 2024-2025\\Di\u00E1kolimpia\\Craters\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{353BB96D-BD22-43AB-AA00-E17AB54D1752}|kraterek.vcxproj|D:\\Dokumentumok\\Kornel-dokumentumai\\Mechwart 2024-2025\\Di\u00E1kolimpia\\Craters\\kraterek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{353BB96D-BD22-43AB-AA00-E17AB54D1752}|kraterek.vcxproj|solutionrelative:kraterek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{353BB96D-BD22-43AB-AA00-E17AB54D1752}|kraterek.vcxproj|D:\\Dokumentumok\\Kornel-dokumentumai\\Mechwart 2024-2025\\Di\u00E1kolimpia\\Craters\\KraterKezelo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{353BB96D-BD22-43AB-AA00-E17AB54D1752}|kraterek.vcxproj|solutionrelative:KraterKezelo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353BB96D-BD22-43AB-AA00-E17AB54D1752}|kraterek.vcxproj|D:\\Dokumentumok\\Kornel-dokumentumai\\Mechwart 2024-2025\\Di\u00E1kolimpia\\Craters\\Krater.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{353BB96D-BD22-43AB-AA00-E17AB54D1752}|kraterek.vcxproj|solutionrelative:Krater.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{353BB96D-BD22-43AB-AA00-E17AB54D1752}|kraterek.vcxproj|D:\\Dokumentumok\\Kornel-dokumentumai\\Mechwart 2024-2025\\Di\u00E1kolimpia\\Craters\\KraterKezelo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{353BB96D-BD22-43AB-AA00-E17AB54D1752}|kraterek.vcxproj|solutionrelative:KraterKezelo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{353BB96D-BD22-43AB-AA00-E17AB54D1752}|kraterek.vcxproj|D:\\Dokumentumok\\Kornel-dokumentumai\\Mechwart 2024-2025\\Di\u00E1kolimpia\\Craters\\Krater.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{353BB96D-BD22-43AB-AA00-E17AB54D1752}|kraterek.vcxproj|solutionrelative:Krater.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{353BB96D-BD22-43AB-AA00-E17AB54D1752}|kraterek.vcxproj|D:\\Dokumentumok\\Kornel-dokumentumai\\Mechwart 2024-2025\\Di\u00E1kolimpia\\Craters\\kraterek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{353BB96D-BD22-43AB-AA00-E17AB54D1752}|kraterek.vcxproj|solutionrelative:kraterek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{353BB96D-BD22-43AB-AA00-E17AB54D1752}|kraterek.vcxproj|D:\\Dokumentumok\\Kornel-dokumentumai\\Mechwart 2024-2025\\Di\u00E1kolimpia\\Craters\\Krater.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{353BB96D-BD22-43AB-AA00-E17AB54D1752}|kraterek.vcxproj|solutionrelative:Krater.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{353BB96D-BD22-43AB-AA00-E17AB54D1752}|kraterek.vcxproj|D:\\Dokumentumok\\Kornel-dokumentumai\\Mechwart 2024-2025\\Di\u00E1kolimpia\\Craters\\Krater.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{353BB96D-BD22-43AB-AA00-E17AB54D1752}|kraterek.vcxproj|solutionrelative:Krater.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,30 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "kraterek.cpp",
               "DocumentMoniker": "D:\\Dokumentumok\\Kornel-dokumentumai\\Mechwart 2024-2025\\Di\u00E1kolimpia\\Craters\\kraterek.cpp",
               "RelativeDocumentMoniker": "kraterek.cpp",
               "ToolTip": "D:\\Dokumentumok\\Kornel-dokumentumai\\Mechwart 2024-2025\\Di\u00E1kolimpia\\Craters\\kraterek.cpp",
               "RelativeToolTip": "kraterek.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-17T07:53:41.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "KraterKezelo.cpp",
               "DocumentMoniker": "D:\\Dokumentumok\\Kornel-dokumentumai\\Mechwart 2024-2025\\Di\u00E1kolimpia\\Craters\\KraterKezelo.cpp",
               "RelativeDocumentMoniker": "KraterKezelo.cpp",
               "ToolTip": "D:\\Dokumentumok\\Kornel-dokumentumai\\Mechwart 2024-2025\\Di\u00E1kolimpia\\Craters\\KraterKezelo.cpp",
               "RelativeToolTip": "KraterKezelo.cpp",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-17T07:53:38.991Z",
               "EditorCaption": ""
@@ -73,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Krater.cpp",
               "DocumentMoniker": "D:\\Dokumentumok\\Kornel-dokumentumai\\Mechwart 2024-2025\\Di\u00E1kolimpia\\Craters\\Krater.cpp",
               "RelativeDocumentMoniker": "Krater.cpp",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Krater.h",
               "DocumentMoniker": "D:\\Dokumentumok\\Kornel-dokumentumai\\Mechwart 2024-2025\\Di\u00E1kolimpia\\Craters\\Krater.h",
               "RelativeDocumentMoniker": "Krater.h",

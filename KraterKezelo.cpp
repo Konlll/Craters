@@ -32,9 +32,7 @@ void KraterKezelo::readFromFile(string filename) {
 	ifstream file(filename);
 	string row;
 	vector<string> splittedData;
-	string name;
 	while (getline(file, row)) {
-		name = "";
 		splittedData = this->split(row, '\t');
 		this->craters.push_back(Krater(stof(splittedData[0]), stof(splittedData[1]), stof(splittedData[2]), splittedData[3]));
 	}
